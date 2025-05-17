@@ -1,5 +1,5 @@
 {
-	"domain": "datadis",
+	"domain": "ha-datadis",
 	"name": "Datadis",
 	"config_flow": true,
 	"documentation": "https://github.com/agalisteo/ha-datadis",
