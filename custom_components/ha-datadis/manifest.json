@@ -1,13 +1,13 @@
 {
 	"domain": "datadis",
 	"name": "Datadis",
-	"codeowners": ["@agaliste"],
-	"integration_type": "hub",
-	"single_config_entry": true,
 	"config_flow": true,
-	"iot_class": "local_polling",
-	"documentation": "https://github.com/agaliste/ha-datadis",
-	"issue_tracker": "https://github.com/agaliste/ha-datadis/issues",
+	"documentation": "https://github.com/agalisteo/ha-datadis",
+	"iot_class": "cloud_polling",
+	"issue_tracker": "https://github.com/agalisteo/ha-datadis/issues",
+	"version": "0.1.0",
+	"codeowners": ["@agaliste"],
 	"requirements": ["python-datadis==0.0.1"],
-	"version": "0.0.1"
+	"homeassistant": "2025.5.0",
+	"country": "ES"
 }
