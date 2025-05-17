@@ -1,0 +1,1 @@
+# Datadis Home Assistant Integration
